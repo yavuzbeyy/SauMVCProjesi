@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HayvanBarinagi
+build_property.RootNamespace = HayvanBarinagi
+build_property.ProjectDir = C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Admin/HayvanDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSGF5dmFuRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Admin/HayvanEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSGF5dmFuRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Admin/HayvanVerme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSGF5dmFuVmVybWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Admin/Iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSWxldGlzaW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Admin/Sahiplenme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2FoaXBsZW5tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/Basvuru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYXN2dXJ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaXJpc1lhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/Hakkimizda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWtraW1pemRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/Hayvanlar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYXl2YW5sYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/HayvanVerme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYXl2YW5WZXJtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/Iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbGV0aXNpbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/Sahiplendirme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWhpcGxlbmRpcm1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Home/UyeOl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVeWVPbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-91spe1mvw6
+
+[C:/Users/YAVUZ/Desktop/WebProgralmalamaÖdev2/Web_Programlama/HayvanBarinagi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-megww643ed

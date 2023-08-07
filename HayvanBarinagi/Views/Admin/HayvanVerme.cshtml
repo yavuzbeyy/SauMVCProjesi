@@ -1,0 +1,30 @@
+﻿@using HayvanBarinagi.Models
+@model List<HayvanVerme>
+
+<div class="container mt-4">
+    <h2 class="text-center">Hayvan Verme Başvurularını Yönet</h2>
+    <p class="text-center">Hayvan Verme Başvuru Sayısı : <strong>@Model.Count</strong></p>
+
+    <div class="row">
+        <!-- Hayvan Kartları -->
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Başvuru @item.id</h3>
+                        <p class="card-text">Hayvan Ad: @item.hayvanAd</p>
+                        <p class="card-text">Hayvan Tür: @item.hayvanTur</p>
+                        <p class="card-text">Yaş: @item.yas</p>
+                        <p class="card-text">Cinsiyet: @item.cinsiyet</p>
+                        <p class="card-text">Sağlık Durumu: @item.saglikDurumu</p>
+                        <p class="card-text">Açıklama: @item.aciklama</p>
+                        <a class="btn btn-primary" asp-area="" asp-controller="Admin" asp-action="HayvanKabulOnayla" asp-route-id="@item.id" asp-route-ad="@item.hayvanAd" asp-route-yas="@item.yas" asp-route-cins="@item.hayvanTur">Hayvanı Kabul Et</a>
+                        <a class="btn btn-danger" asp-area="" asp-controller="Admin" asp-action="HayvanKabulSil" asp-route-id="@item.id">Sil</a>
+                    </div>
+                </div>
+            </div>
+        }
+        <!-- Daha fazla hayvan kartları buraya eklenebilir. -->
+    </div>
+</div>

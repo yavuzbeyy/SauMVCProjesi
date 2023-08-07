@@ -1,0 +1,29 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@{
+    ViewData["Title"] = "Hakkımızda Sayfası";
+}
+
+
+<header class="bg-warning text-center py-4">
+    <h1>@localizer["h1"]</h1>
+    <p>@localizer["p"]</p>
+</header>
+
+<div class="container mt-4">
+    <h2 class="text-center">@localizer["h2"]</h2>
+    <p>
+        @localizer["p1"]
+    </p>
+    <p>
+        @localizer["p2"]
+    </p>
+    <p>
+        @localizer["p3"]
+    </p>
+    <p>
+        @localizer["p4"]
+    </p>
+    <p>
+        @localizer["p5"]
+    </p>
+</div>

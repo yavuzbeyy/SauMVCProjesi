@@ -1,0 +1,58 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@model List<SelectListItem>
+@{
+    ViewData["Title"] = "Başvuru Sayfası";
+}
+
+<h2 class="text-center">@localizer["ApplicationTitle"]</h2>
+@using (Html.BeginForm("Basvuru", "Home", FormMethod.Post))
+{
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">@localizer["AdAlani"]</label>
+                    <input type="text" class="form-control" id="name" name="adSoyad" required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">@localizer["Email"]</label>
+                    <input type="email" class="form-control" id="email" name="ePosta" required>
+                </div>
+                <div class="mb-3">
+                    <label for="phone" class="form-label">@localizer["Telefon"]</label>
+                    <input type="tel" class="form-control" id="phone" name="telNo" required>
+                </div>
+                <div class="mb-3">
+                    <label for="address" class="form-label">@localizer["Adres"]</label>
+                    <textarea class="form-control" id="address" rows="3" name="adres" required></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="animal_type" class="form-label">@localizer["Hayvan"]</label>
+                    @Html.DropDownList("id", Model, "-- Seçiniz --", new { @class = "form-control" })
+                </div>
+                <div class="mb-3">
+                    <label for="family_members" class="form-label">@localizer["Gelir"]</label>
+                    <input type="text" class="form-control" id="family_members" name="gelir" required>
+                </div>
+                <div class="mb-3">
+                    <label for="home_type" class="form-label">@localizer["Ev"]</label>
+                    <input type="text" class="form-control" id="home_type" name="evTipi" required>
+                </div>
+                <div class="mb-3">
+                    <label for="pet_experience" class="form-label">@localizer["Deneyim"]</label>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="pet_experience" id="experience_yes" value="yes" required>
+                        <label class="form-check-label" for="experience_yes">Evet</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="pet_experience" id="experience_no" value="no" required>
+                        <label class="form-check-label" for="experience_no">Hayır</label>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <button type="submit" class="btn btn-primary">@localizer["BasvuruGonder"]</button>
+                </div>
+            </form>
+        </div>
+    </div>
+}

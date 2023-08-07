@@ -1,0 +1,37 @@
+﻿@using HayvanBarinagi.Models
+@model List<Hayvan>
+
+@{
+    ViewData["Title"] = "Anasayfa";
+}
+
+
+
+<header class="bg-warning text-center py-4">
+    <h1>Hayvan Barınağı</h1>
+    <p>Barınaktaki Hayvanlara Yeni Bir Yuva Verin</p>
+</header>
+
+<div class="container mt-4">
+    <h2 class="text-center">Hoş Geldiniz</h2>
+    <p class="text-center">Barınağımızda şu anda @Model.Count adet hayvan bulunmaktadır. Lütfen onlarla tanışın ve sahiplenmeyi düşünün!</p>
+
+    <div class="row">
+        <!-- Hayvan Kartları -->
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Hayvan @item.Id</h3>
+                        <p class="card-text">Tür: @item.Adi</p>
+                        <p class="card-text">Yaş: @item.Yas</p>
+                        <p class="card-text">Cins: @item.Cins</p>
+                        <a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="Hayvanlar">Daha Fazla Bilgi</a>
+                    </div>
+                </div>
+            </div>
+        }
+        <!-- Daha fazla hayvan kartları buraya eklenebilir. -->
+    </div>
+</div>

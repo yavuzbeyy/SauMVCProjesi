@@ -1,0 +1,27 @@
+﻿@using HayvanBarinagi.Models
+@model List<Hayvan>
+@{
+    ViewData["Title"] = "Hayvanlar";
+}
+<h2 class="text-center mb-4">Barınağımızdaki Hayvanların Tablosu</h2>
+<div>
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Adı</th>
+      <th scope="col">Yas</th>
+      <th scope="col">Cins</th>
+    </tr>
+  </thead>
+  <tbody>
+      @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Adi</td>
+                    <td>@item.Yas</td>
+                    <td>@item.Cins</td>
+                </tr>
+            }
+        </tbody>
+</table>
+</div>

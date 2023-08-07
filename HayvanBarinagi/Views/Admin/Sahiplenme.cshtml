@@ -1,0 +1,32 @@
+﻿@using HayvanBarinagi.Models
+@model List<Sahiplenme>
+
+<div class="container mt-4">
+    <h2 class="text-center">Sahiplenme Başvurularını Yönet</h2>
+    <p class="text-center">Sahiplenme Başvuru Sayısı : <strong>@Model.Count</strong></p>
+
+    <div class="row">
+        <!-- Hayvan Kartları -->
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Başvuru @item.id</h3>
+                        <p class="card-text">Ad Soyad: @item.adSoyad</p>
+                        <p class="card-text">E-Posta: @item.ePosta</p>
+                        <p class="card-text">Telefon No: @item.telNo</p>
+                        <p class="card-text">Adres: @item.adres</p>
+                        <p class="card-text">Hayvan: @item.hayvanId</p>
+                        <p class="card-text">Gelir: @item.gelir</p>
+                        <p class="card-text">Ev Tipi: @item.evTipi</p>
+                        <p class="card-text">Sahiplenme Deneyimi: @item.deneyim</p>
+                        <a class="btn btn-primary" asp-area="" asp-controller="Admin" asp-action="SahiplendirmeOnayla" asp-route-id="@item.id" asp-route-animalId="@item.hayvanId">Sahiplendir</a>
+                        <a class="btn btn-danger" asp-area="" asp-controller="Admin" asp-action="SahiplendirmeSil" asp-route-id="@item.id">Sil</a>
+                    </div>
+                </div>
+            </div>
+        }
+        <!-- Daha fazla hayvan kartları buraya eklenebilir. -->
+    </div>
+</div>

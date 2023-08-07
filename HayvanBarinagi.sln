@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HayvanBarinagi", "HayvanBarinagi\HayvanBarinagi.csproj", "{75DDA573-3757-4F18-A6EC-F9A8E26FA664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HayvanBarinagi.API", "HayvanBarinagi.API\HayvanBarinagi.API.csproj", "{831DE122-2530-4F17-A742-791425A41D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75DDA573-3757-4F18-A6EC-F9A8E26FA664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DDA573-3757-4F18-A6EC-F9A8E26FA664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DDA573-3757-4F18-A6EC-F9A8E26FA664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DDA573-3757-4F18-A6EC-F9A8E26FA664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831DE122-2530-4F17-A742-791425A41D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831DE122-2530-4F17-A742-791425A41D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831DE122-2530-4F17-A742-791425A41D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831DE122-2530-4F17-A742-791425A41D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78C7549-BE5E-4E3E-A28A-769787669AA8}
+	EndGlobalSection
+EndGlobal

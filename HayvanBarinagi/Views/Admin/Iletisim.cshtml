@@ -1,0 +1,32 @@
+﻿@using HayvanBarinagi.Models
+@model List<Iletisim>
+
+<h2 class="text-center mb-4">İletişime Geçenler</h2>
+<p class="text-center">İletişim Sayısı : <strong>@Model.Count</strong></p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Ad Soyad</th>
+            <th scope="col">E-Posta</th>
+            <th scope="col">Konu</th>
+            <th scope="col">Mesaj</th>
+            <th scope="col">Okundu mu?</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.adSoyad</td>
+                <td>@item.ePosta</td>
+                <td>@item.konu</td>
+                <td>@item.mesaj</td>
+                <td>
+                    <a class="btn btn-info" asp-area="" asp-controller="Admin" asp-action="IletisimSil" asp-route-id="@item.id">Okundu</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

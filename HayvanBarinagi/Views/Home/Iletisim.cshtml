@@ -1,0 +1,38 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@{
+    ViewData["Title"] = "İletişim Sayfası";
+}
+
+
+<h2 class="text-center">@localizer["baslik"]</h2>
+<p class="text-center">@localizer["baslik2"]</p>
+
+@using (Html.BeginForm("Iletisim", "Home", FormMethod.Post))
+{
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">@localizer["AdSoyad"]</label>
+                    <input type="text" class="form-control" id="name" name="adSoyad" required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">@localizer["Email"]</label>
+                    <input type="email" class="form-control" id="email" name="ePosta" required>
+                </div>
+                <div class="mb-3">
+                    <label for="subject" class="form-label">@localizer["Konu"]</label>
+                    <input type="text" class="form-control" id="subject" name="konu" required>
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">@localizer["Mesaj"]</label>
+                    <textarea class="form-control" id="message" rows="5" name="mesaj" required></textarea>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <button type="submit" class="btn btn-primary btn-md">@localizer["Gonder"]</button>
+                </div>
+            </form>
+        </div>
+    </div>
+ }
+

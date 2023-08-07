@@ -1,0 +1,153 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Hayvan Barınağı</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/hayvanBarinagi.styles.css" asp-append-version="true" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Hayvan Barınağı</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">@localizer["Anasayfa"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Hayvanlar">@localizer["Hayvanlar"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Sahiplendirme">@localizer["Sahiplendirme"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Basvuru">@localizer["Sahiplenme"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="HayvanVerme">@localizer["HayvanVerme"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Hakkimizda">@localizer["Hakkimizda"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Iletisim">@localizer["Iletisim"]</a>
+                        </li>
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-dark" href="#" id="languageDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Lang
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-end" aria-labelledby="languageDropdown">
+                                    <a class="dropdown-item" href="javascript:void(0);" onclick="changeLanguage('en')">English</a>
+                                    <a class="dropdown-item" href="javascript:void(0);" onclick="changeLanguage('tr')">Türkçe</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </ul>
+                    <!-- Dropdown Menü -->
+                    <ul class="navbar-nav">
+                        <li class="nav-item dropdown">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    @User.Identity.Name
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item text-dark" asp-area="" asp-controller="Home" asp-action="CikisYap">@localizer["Cikis"]</a>
+                                </div>
+                            }
+                            else
+                            {
+                                <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    @localizer["Kullanici"]
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item text-dark" asp-area="" asp-controller="Home" asp-action="UyeOl">@localizer["UyeOl"]</a>
+                                    <a class="dropdown-item text-dark" asp-area="" asp-controller="Home" asp-action="GirisYap">@localizer["Giris"]</a>
+                                </div>
+                            }
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - Hayvan Barınağı
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+<style>
+    .nav-item {
+        margin-right: 10px;
+    }
+
+        .nav-item:hover {
+            background-color: #f8f9fa; /* Hover efekti için arka plan rengi */
+        }
+
+        /* Aktif sayfa vurgusu için */
+        .nav-item.active {
+            background-color: #ffc107; /* Aktif sayfa için arka plan rengi */
+            border-radius: 5px;
+        }
+
+            .nav-item.active a {
+                color: #212529; /* Aktif sayfa için metin rengi */
+            }
+</style>
+
+<script>// Aktif sayfa işaretlemesi için JavaScript kullanacağız.
+    $(function () {
+        var path = window.location.pathname;
+        $('.navbar-nav .nav-link').each(function () {
+            var href = $(this).attr('href');
+            if (path === href || (path.startsWith(href) && href !== '/')) {
+                $(this).closest('.nav-item').addClass('active');
+            }
+        });
+    });
+
+    function changeLanguage(culture) {
+        var currentUrl = window.location.href;
+        var queryString = window.location.search;
+
+        // Mevcut dil parametresini kaldırın (eğer varsa)
+        var newUrl = currentUrl.replace(/[\?&]culture=(en|tr)/, '');
+
+        // Yeni dil parametresini ekleyin
+        if (newUrl.indexOf('?') !== -1) {
+            newUrl += '&culture=' + culture;
+        } else {
+            newUrl += '?culture=' + culture;
+        }
+        // Yeni URL'ye yönlendirin
+        window.location.href = newUrl;
+    }
+
+</script>

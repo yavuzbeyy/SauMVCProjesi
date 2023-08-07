@@ -1,0 +1,186 @@
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\appsettings.json
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.staticwebassets.runtime.json
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.exe
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.deps.json
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.runtimeconfig.json
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\ref\HayvanBarinagi.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.pdb
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.csproj.AssemblyReference.cache
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.AssemblyInfoInputs.cache
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.AssemblyInfo.cs
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.csproj.CoreCompileInputs.cache
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.RazorAssemblyInfo.cache
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.RazorAssemblyInfo.cs
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\scopedcss\bundle\HayvanBarinagi.styles.css
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\scopedcss\projectbundle\HayvanBarinagi.bundle.scp.css
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\ref\HayvanBarinagi.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.pdb
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.genruntimeconfig.cache
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.csproj.CopyComplete
+C:\Users\oguz_\OneDrive\Masaüstü\Okul\cpp odev1\HayvanBarinagi\HayvanBarinagi\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\appsettings.json
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.staticwebassets.runtime.json
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.exe
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.deps.json
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.runtimeconfig.json
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\HayvanBarinagi.pdb
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.csproj.AssemblyReference.cache
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.AssemblyInfoInputs.cache
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.AssemblyInfo.cs
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.RazorAssemblyInfo.cache
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.RazorAssemblyInfo.cs
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\staticwebassets\msbuild.HayvanBarinagi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\staticwebassets\msbuild.build.HayvanBarinagi.props
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HayvanBarinagi.props
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HayvanBarinagi.props
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\scopedcss\bundle\HayvanBarinagi.styles.css
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\scopedcss\projectbundle\HayvanBarinagi.bundle.scp.css
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.csproj.CopyComplete
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\refint\HayvanBarinagi.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.pdb
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.genruntimeconfig.cache
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\ref\HayvanBarinagi.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\en\HayvanBarinagi.resources.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\bin\Debug\net6.0\tr\HayvanBarinagi.resources.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.csproj.GenerateResource.cache
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\en\HayvanBarinagi.resources.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\tr\HayvanBarinagi.resources.dll
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Home.Basvuru.en.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Home.Basvuru.tr.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Home.HayvanVerme.en.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Home.HayvanVerme.tr.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Home.Hakkimizda.en.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Home.Hakkimizda.tr.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Shared._Layout.en.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Shared._Layout.tr.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Home.Iletisim.en.resources
+C:\Users\YAVUZ\Desktop\WebProgralmalamaÖdev2\Web_Programlama\HayvanBarinagi\obj\Debug\net6.0\HayvanBarinagi.Resources.Views.Home.Iletisim.tr.resources

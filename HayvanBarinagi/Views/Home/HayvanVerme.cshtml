@@ -1,0 +1,50 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+@{
+    ViewData["Title"] = "Hayvan Kabul Sayfası";
+}
+
+<h2 class="text-center">@localizer["Title"]</h2>
+@using (Html.BeginForm("HayvanVerme", "Home", FormMethod.Post))
+{
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form>
+                <div class="row mb-3">
+                    <div class="col">
+                        <label for="animalName" class="form-label">@localizer["HayvanAd"]</label>
+                        <input type="text" class="form-control" id="animalName" name="hayvanAdi" required>
+                    </div>
+                    <div class="col">
+                        <label for="animalType" class="form-label">@localizer["HayvanTur"]</label>
+                        <input type="text" class="form-control" id="animalType" name="hayvanTuru" required>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <div class="col">
+                        <label for="age" class="form-label">@localizer["HayvanYas"]</label>
+                        <input type="number" class="form-control" id="age" name="yas" required>
+                    </div>
+                    <div class="col">
+                        <label for="gender" class="form-label">@localizer["HayvanCinsiyet"]</label>
+                        <select class="form-select" id="gender" name="cinsiyet" required>
+                            <option value="" selected>Lütfen seçin</option>
+                            <option value="erkek">@localizer["Erkek"]</option>
+                            <option value="dişi">@localizer["Disi"]</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="healthStatus" class="form-label">@localizer["HayvanSaglik"]</label>
+                    <textarea class="form-control" id="healthStatus" rows="3" name="saglikDurumu" required></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">@localizer["HayvanAciklama"]</label>
+                    <textarea class="form-control" id="description" rows="5" name="aciklama" required></textarea>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <button type="submit" class="btn btn-primary">@localizer["BasvuruGonder"]</button>
+                </div>
+            </form>
+        </div>
+    </div>
+}
