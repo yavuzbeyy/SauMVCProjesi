@@ -7,7 +7,7 @@ namespace HayvanBarinagi.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //optionsBuilder.UseSqlServer("Data Source=(localdb)\\ProjectModels;Initial Catalog=HayvanlarDataBase;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
-            optionsBuilder.UseSqlServer("Data Source=localhost;Initial Catalog=HayvanBarinagi3;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
+            optionsBuilder.UseSqlServer("Server=localhost; Database=HayvanBarinagiSon; User Id=SA; Password=reallyStrongPwd123; TrustServerCertificate=True;");
 
         }
         public DbSet<Hayvan> Hayvanlar { get; set; }

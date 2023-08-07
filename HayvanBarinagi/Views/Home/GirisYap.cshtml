@@ -1,10 +1,12 @@
-﻿@{
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+@{
     ViewData["Title"] = "Giriş Sayfası";
 }
 
-<h2 class="text-center mb-4">Hayvan Barınağı Girişi</h2>
+<h2 class="text-center mb-4">@localizer["title"]</h2>
 <h4 class="text-center text-danger">@TempData["LoginGerekli"]</h4>
-@using (Html.BeginForm("GirisYap","Home",FormMethod.Post))
+@using (Html.BeginForm("GirisYap", "Home", FormMethod.Post))
 
 {
 
@@ -12,20 +14,20 @@
         <div class="col-md-6">
             <form>
                 <div class="mb-3">
-                    <label for="username" class="form-label">Kullanıcı Adı</label>
+                    <label for="username" class="form-label">@localizer["username"]</label>
                     <input type="text" class="form-control" id="username" name="UserName" required>
                 </div>
                 <div class="mb-3">
-                    <label for="password" class="form-label">Şifre</label>
+                    <label for="password" class="form-label">@localizer["password"]</label>
                     <input type="password" class="form-control" id="password" name="Password" required>
                 </div>
                 <small>@ViewBag.Mesaj</small>
                 <div class="d-flex justify-content-center">
-                    <button type="submit" class="btn btn-primary btn-md">Giriş Yap</button>
+                    <button type="submit" class="btn btn-primary btn-md">@localizer["login"]</button>
                 </div>
             </form>
         </div>
     </div>
 }
- 
+
 

@@ -1,20 +1,22 @@
-﻿@using HayvanBarinagi.Models
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+@using HayvanBarinagi.Models
 @model List<Hayvan>
 @{
     ViewData["Title"] = "Hayvanlar";
 }
-<h2 class="text-center mb-4">Barınağımızdaki Hayvanların Tablosu</h2>
+<h2 class="text-center mb-4">@localizer["title"]</h2>
 <div>
     <table class="table">
-  <thead>
-    <tr>
-      <th scope="col">Adı</th>
-      <th scope="col">Yas</th>
-      <th scope="col">Cins</th>
-    </tr>
-  </thead>
-  <tbody>
-      @foreach(var item in Model)
+        <thead>
+            <tr>
+                <th scope="col">@localizer["name"]</th>
+                <th scope="col">@localizer["age"]</th>
+                <th scope="col">@localizer["genius"]</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
             {
                 <tr>
                     <td>@item.Adi</td>
@@ -23,5 +25,5 @@
                 </tr>
             }
         </tbody>
-</table>
+    </table>
 </div>

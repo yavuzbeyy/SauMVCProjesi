@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{75DDA573-3757-4F18-A6EC-F9A8E26FA664}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HayvanBarinagi/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="HayvanBarinagi/Views/Shared/_Layout.cshtml" Line="101" Column="58" />
+      <File FileName="HayvanBarinagi/Views/Shared/_AdminLayout.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HayvanBarinagi" expanded="True">
+            <Node name="HayvanBarinagi">
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HayvanBarinagi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.HayvanBarinagi.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

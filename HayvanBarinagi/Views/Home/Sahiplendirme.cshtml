@@ -1,15 +1,17 @@
-﻿@{
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+@{
     ViewData["Title"] = "Sahiplendirme Süreci";
 }
-<h2 class="text-center">Hayvan Sahiplendirme Süreci</h2>
-<p class="text-center">Hayvan sahiplenme süreci aşağıdaki adımları içermektedir. Lütfen dikkatlice takip edin.</p>
+<h2 class="text-center">@localizer["title"]</h2>
+<p class="text-center">@localizer["p"]</p>
 
 <div class="row">
     <div class="col-md-4">
         <div class="card custom-card">
             <div class="card-body">
-                <h3 class="card-title">Adım 1</h3>
-                <p class="card-text">Başvurunuzu tamamlayın ve formu gönderin.</p>
+                <h3 class="card-title">@localizer["1"]</h3>
+                <p class="card-text">@localizer["1t"]</p>
             </div>
         </div>
     </div>
@@ -17,8 +19,8 @@
     <div class="col-md-4">
         <div class="card custom-card">
             <div class="card-body">
-                <h3 class="card-title">Adım 2</h3>
-                <p class="card-text">Başvurunuz incelenir ve uygunluk değerlendirmesi yapılır.</p>
+                <h3 class="card-title">@localizer["2"]</h3>
+                <p class="card-text">@localizer["2t"]</p>
             </div>
         </div>
     </div>
@@ -26,8 +28,8 @@
     <div class="col-md-4">
         <div class="card custom-card">
             <div class="card-body">
-                <h3 class="card-title">Adım 3</h3>
-                <p class="card-text">Uygun bulunmanız durumunda sizinle iletişime geçilir ve görüşme ayarlanır.</p>
+                <h3 class="card-title">@localizer["3"]</h3>
+                <p class="card-text">@localizer["3t"]</p>
             </div>
         </div>
     </div>
@@ -35,8 +37,8 @@
     <div class="col-md-4">
         <div class="card custom-card">
             <div class="card-body">
-                <h3 class="card-title">Adım 4</h3>
-                <p class="card-text">Hayvanlarla tanışma ve barınaktaki uygun hayvanı seçme fırsatı.</p>
+                <h3 class="card-title">@localizer["4"]</h3>
+                <p class="card-text">@localizer["4t"]</p>
             </div>
         </div>
     </div>
@@ -44,8 +46,8 @@
     <div class="col-md-4">
         <div class="card custom-card">
             <div class="card-body">
-                <h3 class="card-title">Adım 5</h3>
-                <p class="card-text">Sahiplendirme işlemleri için gerekli belgelerin düzenlenmesi ve imzalanması.</p>
+                <h3 class="card-title">@localizer["5"]</h3>
+                <p class="card-text">@localizer["5t"]</p>
             </div>
         </div>
     </div>
@@ -53,8 +55,8 @@
     <div class="col-md-4">
         <div class="card custom-card">
             <div class="card-body">
-                <h3 class="card-title">Adım 6</h3>
-                <p class="card-text">Hayvanınızı yeni yuvanıza götürme zamanı!</p>
+                <h3 class="card-title">@localizer["6"]</h3>
+                <p class="card-text">@localizer["6t"]</p>
             </div>
         </div>
     </div>
